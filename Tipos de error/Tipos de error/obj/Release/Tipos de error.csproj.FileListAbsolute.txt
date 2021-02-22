@@ -1,0 +1,10 @@
+C:\Users\alanc\Desktop\Tipos de error - Practica 1\Tipos de error\Tipos de error\bin\Release\Tipos de error.exe.config
+C:\Users\alanc\Desktop\Tipos de error - Practica 1\Tipos de error\Tipos de error\bin\Release\Tipos de error.exe
+C:\Users\alanc\Desktop\Tipos de error - Practica 1\Tipos de error\Tipos de error\bin\Release\Tipos de error.pdb
+C:\Users\alanc\Desktop\Tipos de error - Practica 1\Tipos de error\Tipos de error\obj\Release\Tipos_de_error.FormPrincipal.resources
+C:\Users\alanc\Desktop\Tipos de error - Practica 1\Tipos de error\Tipos de error\obj\Release\Tipos_de_error.Properties.Resources.resources
+C:\Users\alanc\Desktop\Tipos de error - Practica 1\Tipos de error\Tipos de error\obj\Release\Tipos de error.csproj.GenerateResource.cache
+C:\Users\alanc\Desktop\Tipos de error - Practica 1\Tipos de error\Tipos de error\obj\Release\Tipos de error.csproj.CoreCompileInputs.cache
+C:\Users\alanc\Desktop\Tipos de error - Practica 1\Tipos de error\Tipos de error\obj\Release\Tipos de error.exe
+C:\Users\alanc\Desktop\Tipos de error - Practica 1\Tipos de error\Tipos de error\obj\Release\Tipos de error.pdb
+C:\Users\alanc\Desktop\Tipos de error - Practica 1\Tipos de error\Tipos de error\obj\Release\Tipos de error.csprojAssemblyReference.cache
